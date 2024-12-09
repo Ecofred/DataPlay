@@ -7,7 +7,8 @@ python3 -m venv successfactors-env
 
 source successfactors-env/bin/activate
 
-# pip install requests
+# pip install requests python-dotenv
+# pip install json
 # pip freeze > requirements.txt
 
 pip install -r requirements.txt
