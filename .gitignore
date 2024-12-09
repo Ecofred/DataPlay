@@ -1,0 +1,2 @@
+# standard python .gitignore with '-env' added
+/*-env
